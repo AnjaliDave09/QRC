@@ -2,7 +2,7 @@ import React from "react"
 import "antd/dist/antd.css"
 import "../../static/scss/CssQrc.css"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from "../components/Header"
+import Header from "../Components/Header"
 import QRCTeam1 from "../../static/QRCTeam1.jpeg"
 import QRCTeam3 from "../../static/QRCTeam3.jpeg"
 import QRCOurTeam from "../../static/QRCOurTeam.jpeg"

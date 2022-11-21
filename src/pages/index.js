@@ -1,5 +1,5 @@
 import React from "react"
-import Header from "../components/Header"
+import Header from "../Components/Header"
 import QRChome from "../../static/QRChome.jpeg"
 import "../../static/scss/CssQrc.css"
 import "antd/dist/antd.css"

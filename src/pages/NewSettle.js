@@ -1,6 +1,6 @@
 import React from "react"
 import Footer from "../Components/Footer"
-import Header from "../components/Header"
+import Header from "../Components/Header"
 import { NewSettleCard } from "../Components/NewSettleCard"
 import Pagination from "react-bootstrap/Pagination"
 
