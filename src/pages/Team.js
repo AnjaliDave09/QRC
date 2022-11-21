@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "../Components/Header"
 import QRCTeam1 from "../../static/QRCTeam1.jpeg"
 import QRCTeam3 from "../../static/QRCTeam3.jpeg"
-import QRCOurTeam from "../../static/QRCOurTeam.jpeg"
+import QRCOurTeam from "../../static/QrcOurTeam.jpeg"
 import Footer from "../Components/Footer"
 import { OurTeam } from "../Components/OurTeam"
 import { Testimonials } from "../Components/Testimonials"
