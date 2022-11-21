@@ -189,7 +189,7 @@ const Home = () => {
               <h2 className="get-touch bold">Get in Touch</h2>
               
             </div>
-            <p>
+            <p style={{marginLeft: '46px'}}>
               For Business inquiry please send us an{" "}
               <a class="email text-line" href="mailto:info@qrcia.in">
                 {" "}
@@ -261,5 +261,4 @@ const Home = () => {
     </div>
   )
 }
-
 export default Home

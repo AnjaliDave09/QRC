@@ -16,7 +16,6 @@ const ClientLogin = () => {
                 name="normal_login"
                 className="login-form login"
                 initialValues={{ remember: true }}
-
             >
                 <Form.Item
                     name="username"

@@ -51,8 +51,7 @@ const Team = () => {
           <div className="overlay-team">
             <div className="container">
               <div className="theme-title-center">
-                <h2> Our Team.
-                </h2>
+                <h2> Our Team.</h2>
                 <span></span>
               </div>
 
@@ -82,7 +81,6 @@ const Team = () => {
         <div className="container">
         <div className="theme-title ">
           <h2 className="bold">Testimonials</h2>
-          <span></span>
         </div>
           <div className="feedback-wrapper">
 
