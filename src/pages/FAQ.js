@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Accordion from 'react-bootstrap/Accordion';
-import Header from "../components/Header";
+import Header from "../Components/Header";
 import Footer from "../Components/Footer";
 import '../../static/scss/CssQrc.css';
 
@@ -221,7 +221,6 @@ const FAQ = () => {
                 </div> 
                 
             </div>
-
             <Footer />
         </div>
     )

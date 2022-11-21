@@ -10,7 +10,7 @@ import "../../static/scss/CssQrc.css"
 import { Link } from "gatsby"
 
 const Header = () => {
-  const [open, setOpen] = React.useState(false)
+  const [open, setOpen] = useState(false)
 
   const handleOpen = () => {
     setOpen(!open)
@@ -40,7 +40,6 @@ const Header = () => {
             >
               <FontAwesomeIcon icon={faBars} className="social_icon" />
             </button>
-
             <div
               className={
                 isNavExpanded ? "navigation-menu expanded" : "navigation-menu"
@@ -137,7 +136,6 @@ const Header = () => {
               </ul>
               
             </div>
-
             {/* <ul className="menuzord-menu">
               <li>
                 <Link

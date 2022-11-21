@@ -161,7 +161,6 @@ const Home = () => {
           </div>
         </div>
       </div>
-
       <div>
         <Carousel autoplay dots={true}>
           <h3 className="carousel carousel-color">
@@ -181,7 +180,6 @@ const Home = () => {
           </h3>
         </Carousel>
       </div>
-
       <div className="index-flex">
         <div className="get-touch-width index-width pull-left">
           <div className="content container">
@@ -256,7 +254,6 @@ const Home = () => {
           </div>
         </div>
       </div>
-
       <Footer />
     </div>
   )

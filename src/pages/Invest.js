@@ -3,7 +3,7 @@ import "../../static/scss/CssQrc.css";
 import QRCInvest1 from "../../static/QRCInvest1.jpeg";
 import "antd/dist/antd.css";
 import { Carousel } from "antd";
-import Header from "../components/Header";
+import Header from "../Components/Header";
 import Footer from "../Components/Footer";
 import { Investment } from "../Components/Investment";
 

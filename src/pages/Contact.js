@@ -1,6 +1,6 @@
 import React from "react";
 import Footer from "../Components/Footer";
-import Header from "../components/Header";
+import Header from "../Components/Header";
 import '../../static/scss/CssQrc.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
